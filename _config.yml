@@ -20,7 +20,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   pronouns         : # example: "she/her"  
-  bio              : "Research Fellow in Environmental Health Data Science"
+  bio              : # "Research Fellow in Environmental Health Data Science"
   employer         : "University College London"
   uri              : # URL
   email            : "calum.kennedy.20@ucl.ac.uk" 
