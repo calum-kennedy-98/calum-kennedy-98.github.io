@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
+title                    : "Calum Kennedy"
 url                      : https://calum-kennedy-98.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -18,7 +19,6 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Calum Kennedy"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow in Environmental Health Data Science"
   employer         : "University College London"
