@@ -30,7 +30,7 @@ peaks in winter PM2.5 at urban monitoring sites than estimates from the UK natio
 Prevalence of wood burners was positively correlated with age and negatively correlated with measures of
 social deprivation. Prevalence of wood burners in EPCs has increased since 2009.
 
-Conclusions: EPCs are a valuable data source which policymakers can use to target local interventions or
+EPCs are a valuable data source which policymakers can use to target local interventions or
 extend existing restrictions on solid fuel burning. Our method is transparent, up-to-date, and portable to other
 countries where similar EPC data is available. The relationship between social deprivation and prevalence of
 wood burning heat sources highlights important issues of environmental justice. Epidemiological analyses of
