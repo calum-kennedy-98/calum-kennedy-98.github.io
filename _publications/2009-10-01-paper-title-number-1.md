@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/wood_burning_epc
 excerpt: 'We used open data from 26 million Energy Performance Certificates to map the geographic distribution of residential wood burning heat sources at fine scale in England and Wales'
-date: 2025
+date: 2025-07-01
 venue: 'Environment International'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Citation here'
