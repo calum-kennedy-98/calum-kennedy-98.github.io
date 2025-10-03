@@ -7,7 +7,7 @@ excerpt: 'We used open data from 26 million Energy Performance Certificates to m
 date: 2025-07-01
 venue: 'Environment International'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0160412025002880'
-citation: 'Horsfall, L., Kennedy, C., et al. 2025. "High-resolution mapping of residential wood burning heat sources using Energy Performance Certificates: A case study of England and Wales". Environment International. doi: 10.1016/j.envint.2025.109537.'
+citation: 'Horsfall, L., Kennedy, C., et al. 2025. "High-resolution mapping of residential wood burning heat sources using Energy Performance Certificates: A case study of England and Wales". *Environment International*. doi: 10.1016/j.envint.2025.109537.'
 ---
 
 Abstract:
